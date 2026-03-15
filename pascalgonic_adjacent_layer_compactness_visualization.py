@@ -16,8 +16,7 @@ Original file is located at
 # 2. Interactive choice of adjacent layers (R_k, R_{k+1})
 # 3. theta_1 starts at 90 degrees consistently for singleton bits
 # 4. Sharper text / higher-quality export for article use
-# 5. Layer selection is safely capped by:
-#    min(p - 2, ceil((2^p - 2)/(p - 1)) - 1)
+# 5. Layer selection is safely capped by: [1, p-1]
 # ============================================================
 
 import math
