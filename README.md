@@ -56,7 +56,7 @@ Repository Contents
 
 3. Requirements
    The programs are implemented in Python and require the following libraries:
-   a. numpy
+   3.1 numpy
    b. pandas
    c. scipy
    d. matplotlib
