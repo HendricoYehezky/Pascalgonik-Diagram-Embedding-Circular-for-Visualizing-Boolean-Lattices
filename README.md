@@ -56,11 +56,11 @@ Repository Contents
 
 3. Requirements
    The programs are implemented in Python and require the following libraries:
-   3.1 numpy
-   b. pandas
-   c. scipy
-   d. matplotlib
-   e. ipywidgets
+   numpy,
+   pandas,
+   scipy
+   matplotlib, and
+   ipywidgets.
 
 
 These dependencies are commonly available in Jupyter Notebook or Google Colab environments.
