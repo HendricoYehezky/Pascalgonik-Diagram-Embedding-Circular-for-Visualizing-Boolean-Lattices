@@ -7,41 +7,26 @@ The Pascalgonic construction aims to produce a clear geometric representation of
 
 Repository Contents
 1. Pascalgonic Adjacent-Layer Compactness Visualization
+   This program generates an explanatory visualization illustrating the geometric relationship between adjacent layers of the Pascalgonic diagram.
+   The figure highlights:
+   Angular directions of subsets
+   Partition sector centers
+   Layer structure R2
+   Compactness relationships between adjacent layers
 
-This program generates an explanatory visualization illustrating the geometric relationship between adjacent layers of the Pascalgonic diagram.
+   This visualization is primarily intended for illustrative and explanatory purposes, particularly for use in academic articles discussing the Pascalgonic construction.
+   Main features:
+   Geometric explanation of layer compactness
+   Visualization of angular partitioning
+   Illustration of subset directions
 
-The figure highlights:
-
-Angular directions of subsets
-
-Partition sector centers
-
-Layer structure R2
-	​
-
-
-Compactness relationships between adjacent layers
-
-This visualization is primarily intended for illustrative and explanatory purposes, particularly for use in academic articles discussing the Pascalgonic construction.
-
-Main features:
-
-Geometric explanation of layer compactness
-
-Visualization of angular partitioning
-
-Illustration of subset directions
-
-Journal-quality figure generation
 
 2. Pascalgonic Diagram Venn Program
 
 This program generates the complete Pascalgonic diagram for Boolean lattices.
 
 The implementation constructs a circular embedding of the Boolean lattice Bp
-	​
-
- using:
+using:
 
 Polygonal layer representation
 
